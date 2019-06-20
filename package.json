@@ -1,0 +1,27 @@
+{
+  "name": "formulariocreditcard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Formulario.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MageLnk/FormularioCreditCard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MageLnk/FormularioCreditCard/issues"
+  },
+  "homepage": "https://github.com/MageLnk/FormularioCreditCard#readme",
+  "dependencies": {
+    "validator": "^11.0.0",
+    "webpack": "^4.35.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.4"
+  }
+}
